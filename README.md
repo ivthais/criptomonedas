@@ -37,3 +37,21 @@ al alza como a la baja. Además, hay que tener en cuenta que una criptomoneda so
 capaces de añadir valor a todas las partes interesadas. En ese sentido, es un criterio
  clave, a menudo pasado por alto, el nivel de desarrollo del ecosistema (todas las
  funciones aportadas por los desarrolladores y las oportunidades derivadas).
+
+ # Requisitos:
+ librerias utilizadas en el ETL y en el EDA: pandas, numpy, matplotlib, seaborn, mplfinance, y librerias integradas como glob y datetime
+
+ ## Archivos:
+ se disponibilizan todos los csv utilizados para el EDA, el EDA y el ETL para su correcion y analisis
+
+ ## KPIS:
+
+ kpis
+Precio historico:
+Este KPI nos puede ayudar a observar alguna tendencia existente, cabe destacar que tendencias del pasado en el mundo cripto no aseguran nada del futuro
+
+Volatilidad:
+Midiendo la volatilidad de una cripto gracias a la desviacion estandar podemos tener oportunidades de inversion las cuales pueden ser interesantes para inversores que trabajan a corto plazo, operar de esta manera significa alta recompensa pero a su vez alto riesgo.
+
+Volumen: 
+El volumen nos indica la cantidad de una moneda que se está comprando o vendiendo en el mercado. En el mundo cripto es muy importante estar al tanto de esto ya que el FOMO o el FUD pueden jugar un gran papel en el precio de un activo
