@@ -1,4 +1,4 @@
-# 2d0 Proyecto individual: Analisis del mercado de criptomonedas
+# 2do Proyecto individual: Analisis del mercado de criptomonedas
 
 El presente proyecto se basa en el estudio de algunas criptomonedas, 
 las cuales han tenido un comportamiento que cumplen ciertas caracteristicas, como sus movimiento
